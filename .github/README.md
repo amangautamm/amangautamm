@@ -1,13 +1,13 @@
-<img width=100% title="Venom" alt="Venom" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Venom&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
+<img width=100% title="Aman Gautam" alt="Aman Gautam" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=AmanGautam&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
 
 <table border="0">
  <tr>
     <td>
       <br>
-     <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?ont=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Venom;"/>
-     <img width="150" align="center" src="https://komarev.com/ghpvc/?username=venomxdevil&label=Profile%20Visitor&color=071A2C&style=for-the-badge" alt="Venom"/>
+     <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?ont=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aman;"/>
+     <img width="150" align="center" src="https://komarev.com/ghpvc/?username=amangautamm&label=Profile%20Visitor&color=071A2C&style=for-the-badge" alt="Aman Gautam"/>
       <br>
-      <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=venomxdevil&data=followers,repositories,stars,commits&theme=viridescent"/>
+      <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=amangautamm&data=followers,repositories,stars,commits&theme=viridescent"/>
     <td>
       <img alt="gif" src="./assets/images/demon-sleyar.gif">
    </td>  
@@ -33,11 +33,11 @@ type Person struct {
 func main() {
   var me = new(Person)
   
-  me.name     = "Venom"
-  me.username = "venomxdevil"
+  me.name     = "Aman Gautam"
+  me.username = "amangautamm"
   me.age      = "20"
   me.job      = "AI developer | Web developer"
-  me.hobbies  = []string{"code", "anime", "music"," guiterist"," gaming"}
+  me.hobbies  = []string{"coding", "data analyst", "web developer","app developer","gaming"}
   
   fmt.Println(me)
 }
@@ -50,9 +50,9 @@ func main() {
 ## <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> Connect With Me
 
 <p align="center">
-<a href="https://t.me/LegendUnion"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=green"></a><a href="https://mail.google.com/mail/?view=cm&fs=1&to=support@cinemanexus.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a><a href="https://discord.com/invite/wDjaU6kJ"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a><a href="https://www.youtube.com/c/"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a></br>
+<a href="https://t.me/Amanblaze"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=green"></a><a href="https://mail.google.com/mail/?view=cm&fs=1&to=aman@amanblaze.in"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a><a href="https://discord.com/invite/wDjaU6kJ"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a><a href="https://www.youtube.com/c/"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a></br>
 
-<p align="center"><a href="https://twitter.com/realaman78"><img title="Twitter" src="https://img.shields.io/badge/Twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white"></a><a href="https://facebook.com/"><img title="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a><a href="https://instagram.com/badtroxin"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><a align="center"><a href="https://venomxdevil.github.io/info/" target="_blank"><img src="https://img.shields.io/badge/-PORTFOLIO-black?logo=dialogflow&style=for-the-badge">
+<p align="center"><a href="https://twitter.com/realaman78"><img title="Twitter" src="https://img.shields.io/badge/Twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white"></a><a href="https://facebook.com/"><img title="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a><a href="https://instagram.com/lxr9t"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><a align="center"><a href="https://vipamangautam.com/" target="_blank"><img src="https://img.shields.io/badge/-PORTFOLIO-black?logo=dialogflow&style=for-the-badge">
 </a>
 
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
@@ -60,8 +60,8 @@ func main() {
 ## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%>Spent My Time 
 
 <p align="center">
-    <a href="https://github.com/venomxdevil">
-          <img width="60%" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=venomxdevil&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" />
+    <a href="https://github.com/amangautamm">
+          <img width="60%" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=amangautamm&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" />
     <img width="30%" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
   </a>
 </p>
@@ -201,19 +201,19 @@ func main() {
 ### 🏆GitHub Trophies
 
 <p align="center">
-    <a href="https://github.com/venomxdevil">
-          <img width="49%" src="https://github-profile-trophy.vercel.app/?username=venomxdevil&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+    <a href="https://github.com/amangautamm">
+          <img width="49%" src="https://github-profile-trophy.vercel.app/?username=amangautamm&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
     <img width="40%" src="https://holopin.me/amajaying3" />
   </a>
 </p>
-<p align="center"><img src="https://stardev.io/developers/venomxdevil/badge/languages/global.svg" width="100%"></p>
+<p align="center"><img src="https://stardev.io/developers/amangautamm/badge/languages/global.svg" width="100%"></p>
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Profile States
 
 
 <p align="center">
-<a href="https://github.com/venomxdevil"> <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venomxdevil&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=20" alt="GitHub language stats" /><img width="57%" src="https://github-readme-stats.vercel.app/api?username=venomxdevil&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+<a href="https://github.com/amangautamm"> <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amangautamm&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=20" alt="GitHub language stats" /><img width="57%" src="https://github-readme-stats.vercel.app/api?username=amangautamm&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
   </a>
 </p>
 
@@ -223,11 +223,11 @@ func main() {
 
 ### 📊 GitHub States
 <p align="center">
-<a href="https://github.com/venomxdevil"><img width="35%" src="https://github-contributor-stats.vercel.app/api?username=venomxdevil&limit=5&theme=dark&combine_all_yearly_contributions=true" /><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=venomxdevil&theme=dark&hide_border=false" />
+<a href="https://github.com/amangautamm"><img width="35%" src="https://github-contributor-stats.vercel.app/api?username=amangautamm&limit=5&theme=dark&combine_all_yearly_contributions=true" /><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amangautamm&theme=dark&hide_border=false" />
  </a></p>
 <p align="center">
-<a href="https://github.com/venomxdevil">
-<img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=venomxdevil&theme=dark" /><img width="40%" src="https://github-readme-activity-graph.vercel.app/graph?username=venomxdevil&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)" />
+<a href="https://github.com/amangautamm">
+<img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amangautamm&theme=dark" /><img width="40%" src="https://github-readme-activity-graph.vercel.app/graph?username=amangautamm&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)" />
   </a>
 </p>
 
