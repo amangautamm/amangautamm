@@ -1,4 +1,4 @@
-<img width=100% title="Aman Gautam" alt="Aman Gautam" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aman%gautam&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
+<img width=100% title="Aman Gautam" alt="Aman Gautam" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aman&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
 
 <table border="0">
  <tr>
